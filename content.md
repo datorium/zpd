@@ -7,6 +7,8 @@
 
 Dators nejauši ģenerēvienu skaitli no 1 līdz 100, tas pieddāvā spēlētājam ģenerēt skaitli no 1 - 100.
 kaut kas vel
+spēles loģika ir šēit:
+```py
 import random
 
 repeat = True
@@ -41,5 +43,6 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
+```
 
 #### 3. Un t.t.
